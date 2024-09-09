@@ -20,5 +20,5 @@ El Sistema de Alertas Multi-Canal es una plataforma web que permite a los usuari
 *  Instalar las librerias dentro de node modules mediante el uso de npm o yarn
 *  Configurar las variables de entorno .env con tus propios clientes de prueba de Google Identity
   ~~~Python
-  CLIENTE_ID = <Id del cliente>
+  REACT_APP_CLIENTE_ID = <Id del cliente>
   ~~~
