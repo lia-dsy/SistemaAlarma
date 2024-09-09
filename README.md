@@ -9,5 +9,10 @@ El Sistema de Alertas Multi-Canal es una plataforma web que permite a los usuari
 * Sugerencias Inteligentes: Algoritmo de aprendizaje automático para sugerir alertas basadas en patrones de uso.
 * Gestión de Precios: Configuración y actualización de precios según la cantidad de alertas generadas.
 
+## Diagramas ##
+* Casos de uso
+![diagrama1](diagramaSoftware.jpg)
+
+
 ## Requerimientos para ejecutar el código ##
 *  Instalar las librerias dentro de node modules mediante el uso de npm o yarn
